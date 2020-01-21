@@ -25,3 +25,8 @@ system for the regular user (person who uses the gas station) to allow him to re
 in prices and it includes maps for the nearby gas stations. Finally, a fining system that will help
 administrators issue fines and let gas stations view these fines. This will be connected to the
 reports’ database which will be sent to the ministry of commerce and investment.
+
+## Dashboard
+
+email: admin@gas.com
+password: 1234
